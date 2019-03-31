@@ -10,6 +10,15 @@ body{
 .headerimage {
   height: 630px
 }
+.headerimage2 {
+  height: 500px
+}
+.headerimage3 {
+  height: 630px
+}
+.headerimage4 {
+  height: 630px
+}
 h1 {
   padding: 10px 30px;
   border-radius: 5px;
