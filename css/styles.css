@@ -1,0 +1,44 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+}
+.starter-template {
+  text-align: center;
+}
+.headerimage {
+  height: 630px
+}
+.headerimage2 {
+  height: 500px
+}
+.headerimage3 {
+  height: 630px
+}
+.headerimage4 {
+  height: 630px
+}
+h1 {
+  padding: 10px 30px;
+  border-radius: 5px;
+  border: none;
+  font-size: 30px;
+  text-transform: uppercase;
+  color: #000000;
+  background-color: #ffffff;
+  font-weight: bold;
+}
+h1:hover {
+  cursor: pointer;
+}
+.Eatapitta {
+  height: 300px;
+}
+div {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
